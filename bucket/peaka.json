@@ -1,0 +1,22 @@
+{
+    "version": "0.1.9",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/peakacom/peaka-cli/releases/download/v0.1.9/peaka_0.1.9_windows_amd64.zip",
+            "bin": [
+                "peaka.exe"
+            ],
+            "hash": "f78088bc92a6821567e0547673f35cd812f9becaa1e5dd791c8e7d793c04d7f8"
+        },
+        "arm64": {
+            "url": "https://github.com/peakacom/peaka-cli/releases/download/v0.1.9/peaka_0.1.9_windows_arm64.zip",
+            "bin": [
+                "peaka.exe"
+            ],
+            "hash": "385d2e3ac9138466c7c194424de8ba9d0797f7eef4888846e4986943e7b91fe2"
+        }
+    },
+    "homepage": "https://www.peaka.com",
+    "license": "Apache-2.0",
+    "description": "Peaka from the terminal: the public API, a SQL session over dbc, MCP tools for agents"
+}
