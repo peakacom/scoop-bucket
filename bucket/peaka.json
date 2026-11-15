@@ -1,19 +1,19 @@
 {
-    "version": "0.1.14",
+    "version": "0.1.15",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/peakacom/peaka-cli/releases/download/v0.1.14/peaka_0.1.14_windows_amd64.zip",
+            "url": "https://github.com/peakacom/peaka-cli/releases/download/v0.1.15/peaka_0.1.15_windows_amd64.zip",
             "bin": [
                 "peaka.exe"
             ],
-            "hash": "e1cf825f3e000ac5a5cf880f4b1231ed57dbaf8f9a3dd45c24ec96b101f9367d"
+            "hash": "1d673a9eeb0d9b3e6b930614acba1ff3c8f31cbb5e69b14d53ecdf88523ed026"
         },
         "arm64": {
-            "url": "https://github.com/peakacom/peaka-cli/releases/download/v0.1.14/peaka_0.1.14_windows_arm64.zip",
+            "url": "https://github.com/peakacom/peaka-cli/releases/download/v0.1.15/peaka_0.1.15_windows_arm64.zip",
             "bin": [
                 "peaka.exe"
             ],
-            "hash": "0eae4d1636362e13976650248cb2eab128bc804febdeff06beb6ae11e94d5100"
+            "hash": "9d3099d696b5fd3a3147cf8b15f039a8b092cd416d545b52f3dd5028093dc8c0"
         }
     },
     "homepage": "https://www.peaka.com",
